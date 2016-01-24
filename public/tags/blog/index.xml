@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Atabek AKBALAEV</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>http://localhost:8080/tags/blog/</link>
     <description>Recent content in Blog on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Mon, 03 Feb 2014 22:47:19 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8080/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>dotclear, wordpress, ghost !</title>
-      <link>http://localhost:1313/et-on-repart/</link>
+      <link>http://localhost:8080/et-on-repart/</link>
       <pubDate>Mon, 03 Feb 2014 22:47:19 +0100</pubDate>
       
-      <guid>http://localhost:1313/et-on-repart/</guid>
+      <guid>http://localhost:8080/et-on-repart/</guid>
       <description>&lt;p&gt;10 années que le blog existe, 6 ans que je n&amp;rsquo;ai pas &amp;ldquo;blogué&amp;rdquo; &amp;mdash; (effet Twitter ?)&lt;/p&gt;
 
 &lt;p&gt;Je retente l&amp;rsquo;expérience, j&amp;rsquo;ai enormement de sujets en mode brouillons, des dizaines, aussi vieux que mes enfants.&lt;/p&gt;

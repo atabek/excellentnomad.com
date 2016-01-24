@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cest Dit on Atabek AKBALAEV</title>
-    <link>http://localhost:1313/tags/cest-dit/</link>
+    <link>http://localhost:8080/tags/cest-dit/</link>
     <description>Recent content in Cest Dit on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Fri, 02 Nov 2007 18:14:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cest-dit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8080/tags/cest-dit/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Métro rigolo comico musicalo boulot</title>
-      <link>http://localhost:1313/metro-rigolo-comico-musicalo-boulot/</link>
+      <link>http://localhost:8080/metro-rigolo-comico-musicalo-boulot/</link>
       <pubDate>Fri, 02 Nov 2007 18:14:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/metro-rigolo-comico-musicalo-boulot/</guid>
+      <guid>http://localhost:8080/metro-rigolo-comico-musicalo-boulot/</guid>
       <description>&lt;p&gt;8h00, ma pièce de théâtre commence.&lt;/p&gt;
 
 &lt;p&gt;Tous les comédiens sont pret, biiiip &amp;hellip; Le claquement de porte marque le début du premier acte, le décor est planté, un beau tunnel noir.&lt;/p&gt;
@@ -43,10 +43,10 @@ Si un sourd équipé d&amp;rsquo;un ipod&amp;hellip;. m&amp;rsquo;entend&amp;hel
     
     <item>
       <title>Nos repères</title>
-      <link>http://localhost:1313/nos-reperes/</link>
+      <link>http://localhost:8080/nos-reperes/</link>
       <pubDate>Sun, 24 Jun 2007 22:29:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/nos-reperes/</guid>
+      <guid>http://localhost:8080/nos-reperes/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Pour acquérir le sens de l&amp;rsquo;argent, il n&amp;rsquo;est pas nécessaire de connaître les biens qu&amp;rsquo;il procure, il faut avoir éprouvé le mal qu&amp;rsquo;il donne à se laisser gagner.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -57,10 +57,10 @@ Si un sourd équipé d&amp;rsquo;un ipod&amp;hellip;. m&amp;rsquo;entend&amp;hel
     
     <item>
       <title>Good practice</title>
-      <link>http://localhost:1313/good-practice/</link>
+      <link>http://localhost:8080/good-practice/</link>
       <pubDate>Thu, 14 Jun 2007 22:28:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/good-practice/</guid>
+      <guid>http://localhost:8080/good-practice/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;C&amp;rsquo;est un homme sage celui qui ne regrette pas ce qu&amp;rsquo;il n&amp;rsquo;a pas mais se réjouit de ce qu&amp;rsquo;il possède.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -69,10 +69,10 @@ Si un sourd équipé d&amp;rsquo;un ipod&amp;hellip;. m&amp;rsquo;entend&amp;hel
     
     <item>
       <title>Octomètre</title>
-      <link>http://localhost:1313/octometre/</link>
+      <link>http://localhost:8080/octometre/</link>
       <pubDate>Thu, 23 Nov 2006 12:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/octometre/</guid>
+      <guid>http://localhost:8080/octometre/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Un vrai geek, c&amp;rsquo;est un mec qui croit que dans 1 km, il y a 1024 mètres.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -81,10 +81,10 @@ Si un sourd équipé d&amp;rsquo;un ipod&amp;hellip;. m&amp;rsquo;entend&amp;hel
     
     <item>
       <title>80 la minute.</title>
-      <link>http://localhost:1313/80-la-minute/</link>
+      <link>http://localhost:8080/80-la-minute/</link>
       <pubDate>Wed, 30 Aug 2006 03:45:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/80-la-minute/</guid>
+      <guid>http://localhost:8080/80-la-minute/</guid>
       <description>&lt;p&gt;&lt;strong&gt;J&amp;rsquo;aimerais avoir le temps d&amp;rsquo;avoir le temps.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Je suis juste pressé de vieillir pour terminer ma liste des &amp;ldquo;choses à faire&amp;rdquo;; trop pressé de savoir ce que l&amp;rsquo;on me laissera découvrir, apprendre et voir.&lt;/p&gt;
@@ -103,10 +103,10 @@ Si un sourd équipé d&amp;rsquo;un ipod&amp;hellip;. m&amp;rsquo;entend&amp;hel
     
     <item>
       <title>Le design pattern 500 ans avant JC</title>
-      <link>http://localhost:1313/le-design-pattern-500-ans-avant-jc/</link>
+      <link>http://localhost:8080/le-design-pattern-500-ans-avant-jc/</link>
       <pubDate>Fri, 06 May 2005 22:20:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/le-design-pattern-500-ans-avant-jc/</guid>
+      <guid>http://localhost:8080/le-design-pattern-500-ans-avant-jc/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;L&amp;rsquo;homme sage apprend de ses erreurs,
 L&amp;rsquo;homme plus sage apprend des erreurs des autres.&lt;/p&gt;
@@ -118,10 +118,10 @@ L&amp;rsquo;homme plus sage apprend des erreurs des autres.&lt;/p&gt;
     
     <item>
       <title>unDesign Pattern</title>
-      <link>http://localhost:1313/undesign-pattern/</link>
+      <link>http://localhost:8080/undesign-pattern/</link>
       <pubDate>Mon, 18 Apr 2005 22:19:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/undesign-pattern/</guid>
+      <guid>http://localhost:8080/undesign-pattern/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Un système que l&amp;rsquo;on ne peut pas facilement tester est un système dé-testable ;)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -132,10 +132,10 @@ L&amp;rsquo;homme plus sage apprend des erreurs des autres.&lt;/p&gt;
     
     <item>
       <title>Citation</title>
-      <link>http://localhost:1313/citation/</link>
+      <link>http://localhost:8080/citation/</link>
       <pubDate>Mon, 14 Feb 2005 22:08:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/citation/</guid>
+      <guid>http://localhost:8080/citation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Les mains qui aident sont plus sacrées que les lèvres qui prient.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;

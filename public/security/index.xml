@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Securities on Atabek AKBALAEV</title>
-    <link>http://localhost:1313/security/</link>
+    <link>http://localhost:8080/security/</link>
     <description>Recent content in Securities on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sat, 18 Jul 2015 14:15:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8080/security/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Asset Security</title>
-      <link>http://localhost:1313/security/asset-security/</link>
+      <link>http://localhost:8080/security/asset-security/</link>
       <pubDate>Sat, 18 Jul 2015 14:15:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/security/asset-security/</guid>
+      <guid>http://localhost:8080/security/asset-security/</guid>
       <description></description>
     </item>
     

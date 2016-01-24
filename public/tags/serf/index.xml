@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serf on Atabek AKBALAEV</title>
-    <link>http://localhost:1313/tags/serf/</link>
+    <link>http://localhost:8080/tags/serf/</link>
     <description>Recent content in Serf on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sat, 08 Feb 2014 21:48:08 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/serf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8080/tags/serf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Serf agent to join cluster on start</title>
-      <link>http://localhost:1313/keep-serf-agent-alive-while-failing-to-join-cluster/</link>
+      <link>http://localhost:8080/keep-serf-agent-alive-while-failing-to-join-cluster/</link>
       <pubDate>Sat, 08 Feb 2014 21:48:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/keep-serf-agent-alive-while-failing-to-join-cluster/</guid>
+      <guid>http://localhost:8080/keep-serf-agent-alive-while-failing-to-join-cluster/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -43,7 +43,7 @@
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://serfdom.io&#34;&gt;serfdom.io website&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/content/images/2014/Feb/serf_logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/serf_logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

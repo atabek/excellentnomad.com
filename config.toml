@@ -2,7 +2,7 @@ baseurl = "http://excellentnomad.com"
 languageCode = "en-US"
 title = "Atabek AKBALAEV"
 paginate = 5
-DisqusShortname = "vjeantet"
+DisqusShortname = "excellentnomad"
 Copyright = "All rights reserved - 2016"
 theme = "casper"
 [params]

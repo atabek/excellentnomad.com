@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetup on Atabek AKBALAEV</title>
-    <link>http://localhost:1313/tags/meetup/</link>
+    <link>http://localhost:8080/tags/meetup/</link>
     <description>Recent content in Meetup on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Tue, 15 Apr 2014 23:58:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8080/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Meetup pre-devoxx GoogleDevGroup Paris</title>
-      <link>http://localhost:1313/meetup-pre-devoxx-googledevgroup-paris/</link>
+      <link>http://localhost:8080/meetup-pre-devoxx-googledevgroup-paris/</link>
       <pubDate>Tue, 15 Apr 2014 23:58:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/meetup-pre-devoxx-googledevgroup-paris/</guid>
+      <guid>http://localhost:8080/meetup-pre-devoxx-googledevgroup-paris/</guid>
       <description>
 
 &lt;p&gt;Bonne petite soirée le meetup Google Developer Group, une salle aux sieges confortables, et des speakers de qualité.&lt;/p&gt;
@@ -47,16 +47,16 @@ Peu entraînant, mais dans  un français parfait qui force le respect, la partie
 
 &lt;p&gt;Demain, c&amp;rsquo;est Devoxx :-)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/images/2014/Apr/gdg_paris.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Apr/gdg_paris.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Docker.io Paris MEETUP #5</title>
-      <link>http://localhost:1313/docker-io-paris-meetup-5/</link>
+      <link>http://localhost:8080/docker-io-paris-meetup-5/</link>
       <pubDate>Fri, 14 Feb 2014 09:13:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/docker-io-paris-meetup-5/</guid>
+      <guid>http://localhost:8080/docker-io-paris-meetup-5/</guid>
       <description>
 
 &lt;p&gt;Veille de saint Valentin 2014, les curieux, passionnés et amoureux de Docker se sont rencontrés encore une fois pour échanger leurs expériences autour de &lt;a href=&#34;http://docker.io&#34;&gt;Docker.io&lt;/a&gt;&lt;/p&gt;
@@ -79,7 +79,7 @@ Peu entraînant, mais dans  un français parfait qui force le respect, la partie
 &lt;p&gt;&lt;strong&gt;Présentation du projet Boot2Docker&lt;/strong&gt; par Steeve Morin.
 De la genèse du projet, ou comment à partir d&amp;rsquo;une joke avec d&amp;rsquo;autres utilisateurs, il en est arrivé à construire une distrib a partir de &lt;a href=&#34;http://distro.ibiblio.org/tinycorelinux/&#34;&gt;TinyCoreOs&lt;/a&gt;, les contraintes qu&amp;rsquo;il a du gérer pour réussir à compiler un noyau linux minimum, exécuter docker, et exécuter dans LXC son premier container.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/images/2014/Feb/dokerparis_steeve_boot2docker.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/dokerparis_steeve_boot2docker.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/steeve‎&#34;&gt;@steeve&lt;/a&gt; a partagé avec nous les concepts et les exigences qui tirent le projet ( taille minimaliste, exécutable en ram ONLY, cas d&amp;rsquo;utilisation etc&amp;hellip;)&lt;br /&gt;
 Et pour finir une description de la communauté et de ses activités qui permets aujourd&amp;rsquo;hui au projet, de faire progresser, supporter et releaser &lt;a href=&#34;https://github.com/steeve/boot2docker‎&#34;&gt;boot2docker&lt;/a&gt;.&lt;/p&gt;
@@ -90,7 +90,7 @@ Et pour finir une description de la communauté et de ses activités qui permets
 
 &lt;p&gt;Les livreurs, en scooter, sont arrivés a plusieurs pour amener toutes les pizzas tellement il y en avait&amp;hellip;) #win #Nuxeo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/images/2014/Feb/1392387514_47.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/1392387514_47.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;20 minutes de pizza bières et discussions entre tous les participants du meetup.&lt;/p&gt;
 
@@ -118,16 +118,16 @@ Avec le collègue venu avec moi, on s&amp;rsquo;est regardé et on s&amp;rsquo;e
 
 &lt;p&gt;Et merci a &lt;a href=&#34;http://www.meetup.com/Docker-Paris&#34;&gt;DockerParis&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/patcito‎&#34;&gt;@Patrick Aljord&lt;/a&gt; et &lt;a href=&#34;https://twitter.com/nuxeo‎&#34;&gt;@Nuxeo&lt;/a&gt; pour l&amp;rsquo;organisation !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/images/2014/Feb/docker_logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/docker_logo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GOlang, chez Google</title>
-      <link>http://localhost:1313/golang-chez-google/</link>
+      <link>http://localhost:8080/golang-chez-google/</link>
       <pubDate>Wed, 05 Feb 2014 23:35:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/golang-chez-google/</guid>
+      <guid>http://localhost:8080/golang-chez-google/</guid>
       <description>&lt;p&gt;Ce soir une petite session &lt;a href=&#34;http://www.meetup.com/Golang-Paris/&#34;&gt;meetup GOLANG&lt;/a&gt;, animée par un ingénieur de chez Google US.
 Très sympa, pas trop formel et dans un français presque parfait, &lt;a href=&#34;http://www.campoy.cat‎&#34;&gt;Francesc Campoy Flores&lt;/a&gt; a découvert un petit groupe de passionnés, professionnels ou curieux du langage GO.&lt;/p&gt;
 
@@ -135,7 +135,7 @@ Très sympa, pas trop formel et dans un français presque parfait, &lt;a href=&#
 
 &lt;p&gt;Le petit groupe ( assidu ! ) a pu choisir le talk du soir à main levée, &amp;ldquo;Best practices with golang&amp;rdquo; sera le talk du soir.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/images/2014/Feb/GOLANG_meetup_paris_Francesc_Campoy_Flores.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/GOLANG_meetup_paris_Francesc_Campoy_Flores.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A noter que l&amp;rsquo;orateur à du s&amp;rsquo;arrêter prendre une photo du groupe quand il a vu le nombre de personnes qui utilisait GO en production. (Pour montrer au chef a t&amp;rsquo;il dit..)&lt;/p&gt;
 
@@ -145,7 +145,7 @@ Très sympa, pas trop formel et dans un français presque parfait, &lt;a href=&#
 
 &lt;p&gt;Bravo à Frédéric Menez et aux organisateurs, c&amp;rsquo;est un meetup de plus réussi.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/content/images/2014/Feb/gophermega_0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/gophermega_0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
