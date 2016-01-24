@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Valère JEANTET</title>
+    <title>Golang on Atabek AKBALAEV</title>
     <link>http://localhost:1313/tags/golang/</link>
-    <description>Recent content in Golang on Valère JEANTET</description>
+    <description>Recent content in Golang on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
+    <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Wed, 05 Feb 2014 23:35:08 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
