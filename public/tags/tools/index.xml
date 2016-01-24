@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Atabek AKBALAEV</title>
-    <link>http://localhost:8080/tags/tools/</link>
+    <link>http://excellentnomad.com/tags/tools/</link>
     <description>Recent content in Tools on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sat, 17 May 2014 18:03:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:8080/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://excellentnomad.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>OsX, you&#39;re talking to me ?</title>
-      <link>http://localhost:8080/osx-youre-talking-to-me/</link>
+      <link>http://excellentnomad.com/osx-youre-talking-to-me/</link>
       <pubDate>Sat, 17 May 2014 18:03:35 +0200</pubDate>
       
-      <guid>http://localhost:8080/osx-youre-talking-to-me/</guid>
+      <guid>http://excellentnomad.com/osx-youre-talking-to-me/</guid>
       <description>
 
 &lt;p&gt;Just found a fun command on Mac Os X, named as &amp;ldquo;say&amp;rdquo;.&lt;/p&gt;
@@ -63,16 +63,16 @@
 &lt;pre&gt;&lt;code&gt;$ say --voice Thomas --rate=400 &amp;quot;Bonjour je m&#39;appelle Valère&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/May/26758.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://excellentnomad.com/content/images/2014/May/26758.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>1 clavier, 1 souris, et plusieurs machines.</title>
-      <link>http://localhost:8080/1-clavier-1-souris-et-plusieurs-machines/</link>
+      <link>http://excellentnomad.com/1-clavier-1-souris-et-plusieurs-machines/</link>
       <pubDate>Thu, 14 Apr 2005 22:17:00 +0200</pubDate>
       
-      <guid>http://localhost:8080/1-clavier-1-souris-et-plusieurs-machines/</guid>
+      <guid>http://excellentnomad.com/1-clavier-1-souris-et-plusieurs-machines/</guid>
       <description>
 
 &lt;p&gt;Vous avez 2 écrans branchés sur une même machine, ou plusieurs ordinateurs sous différents OS.&lt;/p&gt;

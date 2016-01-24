@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devoxx on Atabek AKBALAEV</title>
-    <link>http://localhost:8080/tags/devoxx/</link>
+    <link>http://excellentnomad.com/tags/devoxx/</link>
     <description>Recent content in Devoxx on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Fri, 18 Apr 2014 23:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:8080/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://excellentnomad.com/tags/devoxx/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mon Devoxx France 2014</title>
-      <link>http://localhost:8080/devoxx-france-2014-review/</link>
+      <link>http://excellentnomad.com/devoxx-france-2014-review/</link>
       <pubDate>Fri, 18 Apr 2014 23:00:00 +0200</pubDate>
       
-      <guid>http://localhost:8080/devoxx-france-2014-review/</guid>
+      <guid>http://excellentnomad.com/devoxx-france-2014-review/</guid>
       <description>
 
 &lt;p&gt;3 jours de conférences au Devoxx france 2014&lt;/p&gt;
@@ -34,7 +34,7 @@
 
 &lt;h1 id=&#34;buffet:5ff25dee227dc7902b0eef45127a3a56&#34;&gt;Buffet !&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Apr/resto.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://excellentnomad.com/content/images/2014/Apr/resto.png&#34; alt=&#34;&#34; /&gt;
 Midi on mange ! Au buffet !&lt;/p&gt;
 
 &lt;h2 id=&#34;linux-101-ou-linux-domptez-le-pingouin:5ff25dee227dc7902b0eef45127a3a56&#34;&gt;Linux 101 (ou Linux, domptez le pingouin)&lt;/h2&gt;
@@ -50,7 +50,7 @@ La salle est pleine, on commence par la découverte des commandes: more, cd, cat
 Ça fera tout de même une belle vidéo pour qui ne connais que très très peu linux et voudrait le redécouvrir.&lt;/p&gt;
 
 &lt;p&gt;#Café !
-&lt;img src=&#34;http://localhost:8080/content/images/2014/Apr/cafe.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://excellentnomad.com/content/images/2014/Apr/cafe.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;talk-redis-une-base-not-only-nosql:5ff25dee227dc7902b0eef45127a3a56&#34;&gt;Talk &amp;ldquo;Redis, une base Not Only NoSQL&amp;rdquo;&lt;/h2&gt;
 
@@ -201,16 +201,16 @@ Très instructif, beaucoup d&amp;rsquo;exemples de mauvaises pratiques et démys
 
 &lt;p&gt;Pour info, toutes les conférences étaient filmées, et seront disponibles bientot.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Apr/devoxxfrjesuisdeveloppeur.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://excellentnomad.com/content/images/2014/Apr/devoxxfrjesuisdeveloppeur.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Meetup pre-devoxx GoogleDevGroup Paris</title>
-      <link>http://localhost:8080/meetup-pre-devoxx-googledevgroup-paris/</link>
+      <link>http://excellentnomad.com/meetup-pre-devoxx-googledevgroup-paris/</link>
       <pubDate>Tue, 15 Apr 2014 23:58:00 +0200</pubDate>
       
-      <guid>http://localhost:8080/meetup-pre-devoxx-googledevgroup-paris/</guid>
+      <guid>http://excellentnomad.com/meetup-pre-devoxx-googledevgroup-paris/</guid>
       <description>
 
 &lt;p&gt;Bonne petite soirée le meetup Google Developer Group, une salle aux sieges confortables, et des speakers de qualité.&lt;/p&gt;
@@ -242,23 +242,23 @@ Peu entraînant, mais dans  un français parfait qui force le respect, la partie
 
 &lt;p&gt;Demain, c&amp;rsquo;est Devoxx :-)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Apr/gdg_paris.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://excellentnomad.com/content/images/2014/Apr/gdg_paris.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DevO(xx|ps)</title>
-      <link>http://localhost:8080/devoxxps/</link>
+      <link>http://excellentnomad.com/devoxxps/</link>
       <pubDate>Fri, 21 Feb 2014 19:11:36 +0100</pubDate>
       
-      <guid>http://localhost:8080/devoxxps/</guid>
+      <guid>http://excellentnomad.com/devoxxps/</guid>
       <description>&lt;p&gt;En attendant une date pour le Devops 2014, on se voit au DevOxx Paris 2014 !&lt;/p&gt;
 
 &lt;p&gt;Le programme &lt;a href=&#34;http://cfp.devoxx.fr/devoxxfr2014&#34;&gt;est disponible&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Il y a du Docker et du Golang dans l&amp;rsquo;air cette année&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:8080/content/images/2014/Feb/devoxx_la_conference_des_developpeurs_passionnes_2014-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://excellentnomad.com/content/images/2014/Feb/devoxx_la_conference_des_developpeurs_passionnes_2014-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
