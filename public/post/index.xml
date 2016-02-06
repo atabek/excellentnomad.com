@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Atabek AKBALAEV</title>
-    <link>http://excellent-nomad-1989.appspot.com/post/</link>
+    <link>http://excellentnomad.com/post/</link>
     <description>Recent content in Posts on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sun, 24 Jan 2016 20:00:07 -0600</lastBuildDate>
-    <atom:link href="http://excellent-nomad-1989.appspot.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://excellentnomad.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://excellent-nomad-1989.appspot.com/hello-world/</link>
+      <link>http://excellentnomad.com/hello-world/</link>
       <pubDate>Sun, 24 Jan 2016 20:00:07 -0600</pubDate>
       
-      <guid>http://excellent-nomad-1989.appspot.com/hello-world/</guid>
-      <description>&lt;p&gt;Hello everybody out there! This will be the &lt;a href=&#34;http://excellent-nomad-1989.appspot.com/hello-world&#34;&gt;post #1&lt;/a&gt; on my personal blog.
+      <guid>http://excellentnomad.com/hello-world/</guid>
+      <description>&lt;p&gt;Hello everybody out there! This will be the &lt;a href=&#34;http://excellentnomad.com/hello-world&#34;&gt;post #1&lt;/a&gt; on my personal blog.
 I&amp;rsquo;ll try to update it with useful info. I just want to briefly explain
 what was this blog made out of: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, &lt;a href=&#34;https://cloud.google.com/appengine/docs&#34;&gt;Google App Engine&lt;/a&gt;.&lt;/p&gt;
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atabek AKBALAEV</title>
-    <link>http://excellent-nomad-1989.appspot.com/</link>
+    <link>http://excellentnomad.com/</link>
     <description>Recent content on Atabek AKBALAEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Sun, 24 Jan 2016 20:00:07 -0600</lastBuildDate>
-    <atom:link href="http://excellent-nomad-1989.appspot.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://excellentnomad.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://excellent-nomad-1989.appspot.com/hello-world/</link>
+      <link>http://excellentnomad.com/hello-world/</link>
       <pubDate>Sun, 24 Jan 2016 20:00:07 -0600</pubDate>
       
-      <guid>http://excellent-nomad-1989.appspot.com/hello-world/</guid>
-      <description>&lt;p&gt;Hello everybody out there! This will be the &lt;a href=&#34;http://excellent-nomad-1989.appspot.com/hello-world&#34;&gt;post #1&lt;/a&gt; on my personal blog.
+      <guid>http://excellentnomad.com/hello-world/</guid>
+      <description>&lt;p&gt;Hello everybody out there! This will be the &lt;a href=&#34;http://excellentnomad.com/hello-world&#34;&gt;post #1&lt;/a&gt; on my personal blog.
 I&amp;rsquo;ll try to update it with useful info. I just want to briefly explain
 what was this blog made out of: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, &lt;a href=&#34;https://cloud.google.com/appengine/docs&#34;&gt;Google App Engine&lt;/a&gt;.&lt;/p&gt;
 
@@ -30,10 +30,10 @@ what was this blog made out of: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&
     
     <item>
       <title>About me</title>
-      <link>http://excellent-nomad-1989.appspot.com/about/</link>
+      <link>http://excellentnomad.com/about/</link>
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0200</pubDate>
       
-      <guid>http://excellent-nomad-1989.appspot.com/about/</guid>
+      <guid>http://excellentnomad.com/about/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -45,20 +45,20 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>Sécurité</title>
-      <link>http://excellent-nomad-1989.appspot.com/security/</link>
+      <link>http://excellentnomad.com/security/</link>
       <pubDate>Wed, 30 Aug 2006 03:45:00 +0200</pubDate>
       
-      <guid>http://excellent-nomad-1989.appspot.com/security/</guid>
+      <guid>http://excellentnomad.com/security/</guid>
       <description>&lt;p&gt;Des ressources et des notes liées à la sécurité informatique.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PGP Pub Key</title>
-      <link>http://excellent-nomad-1989.appspot.com/pgp/</link>
+      <link>http://excellentnomad.com/pgp/</link>
       <pubDate>Wed, 27 May 2015 23:31:14 +0200</pubDate>
       
-      <guid>http://excellent-nomad-1989.appspot.com/pgp/</guid>
+      <guid>http://excellentnomad.com/pgp/</guid>
       <description>&lt;pre&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: GPGTools - https://gpgtools.org
 
